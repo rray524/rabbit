@@ -1,0 +1,85 @@
+
+	/*==================================================================
+    Coded by:RAHUL RAY,ID=1377;
+    Copyright by rahul 2015
+    ==================================================================*/
+    
+    *{margin:0; }
+	/***************************==|header area|==**************************/
+	.header{width:100%;height:166px;background:#FFFFFF;margin-top:-20px;}
+	.logo{margin-left:218px;float:left;margin-top: 21px; }
+	.logo_text{margin-left:358px;font-family:castellar;font-size:20px;width:128px;padding-top: 47px;}
+	.first_letter{color:#FB9C06;display:block;text-transform:lowercase;font-family:serif; }
+	.second_letter{color:#6E6D6B;font-family:acme;font-size:28px;}
+    
+    .icons{float:right;margin-top: -68px;margin-right: 214px; }
+    .icons img{margin-left:78px; }
+    .icons img:last-child{margin-left:74px; }
+    
+	nav{margin-left:553px;width:50%;}
+    nav ul.bar {list-style:none; }
+	nav ul.bar li{padding:5px;padding-right:69px; }
+    nav ul.bar li a{font-size:22px;font-family:calibri;font-weight:bold;color:#9E9B9B;text-decoration:none; }
+    nav ul.bar li a:last-child{padding-right:none; }
+    nav ul.bar li a:hover{color:#FB9C06; }
+    
+   /***************************==|article area|==**************************/
+   .article{width:100%;text-wrap:unrestricted;height:135px;margin:35px 0 60px; }
+   .column_one{width:20%;float:left;margin-left:107px; }
+   .column_one p{font-family:calibri;font-size:15px;font-style:italic; }
+   .column_one span{font-family:myriad pro;font-size:17px;float:right; }
+   
+   
+   .column_two{width:20%;float:left;margin-left:20px;  }
+   .column_two p{font-family:calibri;font-size:15px;font-style:italic; }
+   .column_two span{font-family:myriad pro;font-size:17px;float:right; }
+ 
+   
+   .column_three{width:20%;float:left;margin-left:20px;  }
+   .column_three p{font-family:calibri;font-size:15px;font-style:italic; }
+   .column_three span{font-family:myriad pro;font-size:17px;float:right; }
+  
+   
+   .column_four{width:20%;float:left;margin-left:20px;  }
+   .column_four p{font-family:calibri;font-size:15px;font-style:italic; }
+   .column_four span{font-family:myriad pro;font-size:17px;float:right; }
+ 
+   /***************************==|our-team area|==**************************/
+   
+   .team{width:100%;height:590px;}
+   .team h1{text-decoration:underline;color:#FFB543;font-weight:lighter;text-align:center; }
+   
+   .team_one{width:25%;float:left;margin-left:105px; }
+   .team_one img{border:5px solid #FFB543;border-radius:1000px; }
+   .team_one p.title{text-align:center; font-family:myriad pro;font-size:22px;color:#FB9C06;margin:30px 0 30px;}
+   .team_one p{ }
+   
+   .team_two{width:25%;float:left;margin-left:82px;  }
+   .team_two img{border:5px solid #FFB543;border-radius:1000px; }
+   .team_two p.title{text-align:center; font-family:myriad pro;font-size:22px;color:#FB9C06;margin:30px 0 30px;}
+   .team_two p{ }
+   
+   .team_three{width:25%;float:left;margin-left:85px;  }
+   .team_three img{border:5px solid #FFB543;border-radius:1000px; }
+   .team_three p.title{text-align:center; font-family:myriad pro;font-size:22px;color:#FB9C06;margin:30px 0 30px;}
+   .team_three p{ }
+   
+     /***************************==|form area|==**************************/
+     
+    .form_area{width:100%;height:402px; }
+    .form_area h1{font-family:myriad pro;font-size:40px;font-weight:lighter;text-align:center; text-decoration:underline;color:#FF9C00;}
+
+    .main_form{width:70%;margin:0 auto; height: 214px; }
+    .main_form span{color:#FB9C06;font-family:myriad pro;font-size:24px;font-weight:lighter; }
+    .input_one{margin-top:30px; }
+    input[type="text"]{width:80%;height:33px;background-color:transparent;margin-left:87px; }
+    input[type="text"]:last-child{width:80%;height:63px;background-color:transparent;margin-left:55px; }
+    
+    button{height:49px;width:175px;background:#FB9C06;color:#fff;margin-left:882px;margin-top:16px;border:none;font-family:acme;font-size:30px;box-shadow:0 3px 0 #CC830E;}
+
+
+ /***************************==|footer area|==**************************/
+ 
+ .footer{width:100%;box-shadow:0 6px 0 #CC830E;height:70px;background:#FB9C06;margin-bottom:6px; }
+ .footer h1{font-family:myriad pro;font-size:22px;font-size:lighter;text-align:center;color:#FFFFFF;padding:23px;}
+   	
